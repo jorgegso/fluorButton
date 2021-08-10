@@ -1,9 +1,8 @@
-# A simple web  
+# Glowing Neon Buttons
 
-A simple Form for practices, in which I learn basic html css.
-
+Part one of css challends
 ##How to run the web.
-1. Go to the link [in this web](https://jorgegso.github.io/formResponsiv/).
+1. Go to the link [in this web]().
 2. that's it.
 
 or 
@@ -14,8 +13,4 @@ or
 4. that's it.
 
 ## What the web looks like
-![image](https://user-images.githubusercontent.com/63064991/128811020-8d78b941-d6f4-4e98-b5c8-f9cdf63e1453.png)
-![image](https://user-images.githubusercontent.com/63064991/128811199-3f154267-5e37-46e3-90c3-f25215a6705d.png)
 
-# fluorButton
-# fluorButton
